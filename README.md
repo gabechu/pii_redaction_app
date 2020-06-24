@@ -1,2 +1,2 @@
-# pii_redaction_app
+# PII Redaction App for the Zendesk Support
 Auto redact app for Zendesk Support
